@@ -9,7 +9,7 @@ Dropout, L2 weight decay and Early Stopping.
 - `Machine_Learning_Assignment.ipynb`  
   Jupyter notebook with all TensorFlow/Keras code used to train the models and generate the plots.
 
-- `tutorial.pdf`  
+- `Understanding Overfitting in Neural Networks and Techniques to Prevent It.pdf`  
   PDF version of the tutorial (also submitted via CodeGrade).
 
 - `figs/`  
