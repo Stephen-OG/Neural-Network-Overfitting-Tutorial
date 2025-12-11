@@ -6,7 +6,7 @@ Dropout, L2 weight decay and Early Stopping.
 
 You can read the full write-up on DEV Community here:
 
-👉 **https://dev.to/<your-username>/<your-post-slug>](https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b**
+👉 **https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b**
 
 
 ## Contents
